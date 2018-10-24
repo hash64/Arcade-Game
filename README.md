@@ -12,7 +12,7 @@
 
 ## Where To Play
 
-- [Play Here](https://hash64.github.io/Arcade-Game/)
+- [Play Here](https://hash64.github.io/FEND-Arcade-Game/)
 
 ## Technology
 
